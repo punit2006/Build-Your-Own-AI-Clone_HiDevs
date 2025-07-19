@@ -1,11 +1,12 @@
-PDF Document Q&A and AI Chatbot
-This Google Colab notebook provides a powerful solution for two distinct but related functionalities:
+**PDF Document Q&A and AI Chatbot**
 
-PDF Document Question Answering (Q&A): Upload any PDF document, and the system will extract its text, process it, and allow you to ask questions about its content.
+**This Google Colab notebook provides a powerful solution for two distinct but related functionalities:**
 
-General-Purpose AI Chatbot: Engage in a free-form conversation with an AI model capable of answering a wide range of questions, generating text, and more.
+**PDF Document Question Answering (Q&A): Upload any PDF document, and the system will extract its text, process it, and allow you to ask questions about its content.**
 
-Both functionalities leverage the capabilities of Groq's Llama 3 70B model for fast and accurate responses, integrated via LangChain.
+**General-Purpose AI Chatbot: Engage in a free-form conversation with an AI model capable of answering a wide range of questions, generating text, and more.**
+
+**Both functionalities leverage the capabilities of Groq's Llama 3 70B model for fast and accurate responses, integrated via LangChain.**
 
 Features
 PDF Text Extraction: Utilizes pypdf to extract text from your uploaded PDF documents.
