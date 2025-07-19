@@ -1,1 +1,23 @@
 # Add your project dependencies here
+# Core LLM & LangChain Dependencies
+langchain
+langchain-community
+langchain-groq
+
+# Embeddings & Vector Store
+chromadb
+sentence-transformers
+
+# PDF Parsing
+pypdf
+
+# Streamlit for UI (optional, used if integrating with Streamlit)
+streamlit
+
+# Environment Variable Management
+python-dotenv
+
+# Progress Bars
+tqdm
+
+pip install -r requirements.txt
