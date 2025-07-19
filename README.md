@@ -157,18 +157,5 @@ Goodbye!
 
 Feel free to fork, customize, or raise issues. Pull requests are welcome!
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you also want:
-
-* A `requirements.txt` file
-* This setup in `streamlit` instead of Google Colab
-* GitHub Actions/Colab badge integration
-
-I'll generate those too.
+▶️ Run on Google Colab
+Click the badge below to open and run this project in Google Colab:https://colab.research.google.com/drive/1Tke4BGDCAOSYrTdrJ7ThoMa0L1DYgNUf?usp=sharing
