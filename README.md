@@ -158,4 +158,4 @@ Goodbye!
 Feel free to fork, customize, or raise issues. Pull requests are welcome!
 
 ▶️ Run on Google Colab
-Click the badge below to open and run this project in Google Colab:https://colab.research.google.com/drive/1Tke4BGDCAOSYrTdrJ7ThoMa0L1DYgNUf?usp=sharing
+https://colab.research.google.com/drive/1Tke4BGDCAOSYrTdrJ7ThoMa0L1DYgNUf?usp=sharing
