@@ -157,5 +157,6 @@ Goodbye!
 
 Feel free to fork, customize, or raise issues. Pull requests are welcome!
 
-▶️ Run on Google Colab
+## ▶️ Run on Google Colab
+
 https://colab.research.google.com/drive/1Tke4BGDCAOSYrTdrJ7ThoMa0L1DYgNUf?usp=sharing
